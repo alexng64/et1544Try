@@ -34,7 +34,7 @@
             android:textColor="@color/colorAccent" />
 
         <Button
-            android:text="LARGE"
+            android:text="LARGE-SHERMAN"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@+id/button1"
@@ -42,7 +42,7 @@
             android:id="@+id/button2" />
 
         <Button
-            android:text="SMALL"
+            android:text="SMALL-SHERMAN"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/button1"
